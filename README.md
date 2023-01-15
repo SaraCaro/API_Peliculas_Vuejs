@@ -5,4 +5,4 @@
 
 ![image](https://user-images.githubusercontent.com/98116459/212559447-0b46b93b-348a-4a52-8a6c-b62f16cce85b.png)
 
-saracaro.github.io/API_Peliculas_Vuejs/
+https://saracaro.github.io/API_Peliculas_Vuejs/
